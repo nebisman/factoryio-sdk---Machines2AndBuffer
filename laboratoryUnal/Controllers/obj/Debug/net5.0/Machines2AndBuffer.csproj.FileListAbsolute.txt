@@ -1,0 +1,19 @@
+C:\Users\sanal\factoryio-sdk - Machines2AndBuffer\laboratoryUnal\Controllers\bin\Debug\net5.0\Machines2AndBuffer.exe
+C:\Users\sanal\factoryio-sdk - Machines2AndBuffer\laboratoryUnal\Controllers\bin\Debug\net5.0\Machines2AndBuffer.deps.json
+C:\Users\sanal\factoryio-sdk - Machines2AndBuffer\laboratoryUnal\Controllers\bin\Debug\net5.0\Machines2AndBuffer.runtimeconfig.json
+C:\Users\sanal\factoryio-sdk - Machines2AndBuffer\laboratoryUnal\Controllers\bin\Debug\net5.0\Machines2AndBuffer.runtimeconfig.dev.json
+C:\Users\sanal\factoryio-sdk - Machines2AndBuffer\laboratoryUnal\Controllers\bin\Debug\net5.0\Machines2AndBuffer.dll
+C:\Users\sanal\factoryio-sdk - Machines2AndBuffer\laboratoryUnal\Controllers\bin\Debug\net5.0\ref\Machines2AndBuffer.dll
+C:\Users\sanal\factoryio-sdk - Machines2AndBuffer\laboratoryUnal\Controllers\bin\Debug\net5.0\Machines2AndBuffer.pdb
+C:\Users\sanal\factoryio-sdk - Machines2AndBuffer\laboratoryUnal\Controllers\bin\Debug\net5.0\Engine IO.dll
+C:\Users\sanal\factoryio-sdk - Machines2AndBuffer\laboratoryUnal\Controllers\bin\Debug\net5.0\Engine IO.pdb
+C:\Users\sanal\factoryio-sdk - Machines2AndBuffer\laboratoryUnal\Controllers\obj\Debug\net5.0\Machines2AndBuffer.csprojAssemblyReference.cache
+C:\Users\sanal\factoryio-sdk - Machines2AndBuffer\laboratoryUnal\Controllers\obj\Debug\net5.0\Machines2AndBuffer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sanal\factoryio-sdk - Machines2AndBuffer\laboratoryUnal\Controllers\obj\Debug\net5.0\Machines2AndBuffer.AssemblyInfoInputs.cache
+C:\Users\sanal\factoryio-sdk - Machines2AndBuffer\laboratoryUnal\Controllers\obj\Debug\net5.0\Machines2AndBuffer.AssemblyInfo.cs
+C:\Users\sanal\factoryio-sdk - Machines2AndBuffer\laboratoryUnal\Controllers\obj\Debug\net5.0\Machines2AndBuffer.csproj.CoreCompileInputs.cache
+C:\Users\sanal\factoryio-sdk - Machines2AndBuffer\laboratoryUnal\Controllers\obj\Debug\net5.0\Machines2AndBuffer.csproj.CopyComplete
+C:\Users\sanal\factoryio-sdk - Machines2AndBuffer\laboratoryUnal\Controllers\obj\Debug\net5.0\Machines2AndBuffer.dll
+C:\Users\sanal\factoryio-sdk - Machines2AndBuffer\laboratoryUnal\Controllers\obj\Debug\net5.0\ref\Machines2AndBuffer.dll
+C:\Users\sanal\factoryio-sdk - Machines2AndBuffer\laboratoryUnal\Controllers\obj\Debug\net5.0\Machines2AndBuffer.pdb
+C:\Users\sanal\factoryio-sdk - Machines2AndBuffer\laboratoryUnal\Controllers\obj\Debug\net5.0\Machines2AndBuffer.genruntimeconfig.cache
