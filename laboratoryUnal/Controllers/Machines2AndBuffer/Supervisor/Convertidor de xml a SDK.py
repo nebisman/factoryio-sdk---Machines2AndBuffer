@@ -276,6 +276,5 @@ if __name__ == '__main__':
     run_button = ttk.Button(frm, text="Run xml2SDK", command=run_xml_to_sdk)
     run_button.config(state="disabled")
     run_button.grid(column=1, row=1)
-    #Tk().withdraw() # we don't want a full GUI, so keep the root window from appearing
-    print("yeah")
+    #Tk().withdraw() # we don't want a full GUI, so keep the root window from appearing    
     root.mainloop()
