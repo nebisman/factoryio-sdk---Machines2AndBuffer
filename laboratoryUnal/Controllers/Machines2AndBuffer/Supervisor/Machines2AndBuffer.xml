@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Automata name="Untitled" major="0" minor="9">
+<Automaton name="SupervisorMaq2BufferFallamaq1_maq2" type="Supervisor">
+	<Events>
+		<Event id="0" label="e1"/>
+		<Event id="1" label="e2"/>
+		<Event id="2" label="f1" controllable="false"/>
+		<Event id="3" label="f2" controllable="false"/>
+		<Event id="4" label="r1"/>
+		<Event id="5" label="r2"/>
+		<Event id="6" label="t1" controllable="false"/>
+		<Event id="7" label="t2" controllable="false"/>
+	</Events>
+	<States>
+		<State id="0" name="BufferLleno.NoHaFalladoMaq11.maq1Espera.Maq2Falla"/>
+		<State id="1" name="BufferLleno.NoHaFalladoMaq11.maq1Espera.maq2Espera"/>
+		<State id="2" name="BufferLleno.NoHaFalladoMaq11.maq1Espera.maq2Trabaja"/>
+		<State id="3" name="BufferVacio.FalloMaq1.maq1Falla.Maq2Falla"/>
+		<State id="4" name="BufferVacio.FalloMaq1.maq1Falla.maq2Espera"/>
+		<State id="5" name="BufferVacio.FalloMaq1.maq1Falla.maq2Trabaja"/>
+		<State id="6" name="BufferVacio.NoHaFalladoMaq11.maq1Espera.Maq2Falla"/>
+		<State id="7" name="BufferVacio.NoHaFalladoMaq11.maq1Espera.maq2Espera" initial="true" accepting="true"/>
+		<State id="8" name="BufferVacio.NoHaFalladoMaq11.maq1Espera.maq2Trabaja"/>
+		<State id="9" name="BufferVacio.NoHaFalladoMaq11.maq1Trabaja.Maq2Falla"/>
+		<State id="10" name="BufferVacio.NoHaFalladoMaq11.maq1Trabaja.maq2Espera"/>
+		<State id="11" name="BufferVacio.NoHaFalladoMaq11.maq1Trabaja.maq2Trabaja"/>
+	</States>
+	<Transitions>
+		<Transition source="0" dest="1" event="5"/>
+		<Transition source="1" dest="8" event="1"/>
+		<Transition source="2" dest="1" event="7"/>
+		<Transition source="2" dest="0" event="3"/>
+		<Transition source="3" dest="6" event="4"/>
+		<Transition source="4" dest="7" event="4"/>
+		<Transition source="5" dest="4" event="7"/>
+		<Transition source="5" dest="3" event="3"/>
+		<Transition source="5" dest="8" event="4"/>
+		<Transition source="6" dest="7" event="5"/>
+		<Transition source="6" dest="9" event="0"/>
+		<Transition source="7" dest="10" event="0"/>
+		<Transition source="8" dest="7" event="7"/>
+		<Transition source="8" dest="6" event="3"/>
+		<Transition source="8" dest="11" event="0"/>
+		<Transition source="9" dest="0" event="6"/>
+		<Transition source="9" dest="3" event="2"/>
+		<Transition source="9" dest="10" event="5"/>
+		<Transition source="10" dest="1" event="6"/>
+		<Transition source="10" dest="4" event="2"/>
+		<Transition source="11" dest="2" event="6"/>
+		<Transition source="11" dest="5" event="2"/>
+		<Transition source="11" dest="10" event="7"/>
+		<Transition source="11" dest="9" event="3"/>
+	</Transitions>
+</Automaton>
+</Automata>
