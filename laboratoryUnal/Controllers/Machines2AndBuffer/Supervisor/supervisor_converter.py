@@ -1,5 +1,9 @@
 # Import BeautifulSoup
 from bs4 import BeautifulSoup as bs
+from bs4 import XMLParsedAsHTMLWarning
+import warnings
+
+warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
 
 #from xml2sdk import xml2sdk
 content = []
